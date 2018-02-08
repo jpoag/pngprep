@@ -19,3 +19,15 @@ Download version 1.0, including source code and a pre-built executable for Windo
 pngprep.zip
 
 Disclaimer: Use it for anything, but do so at your own risk.
+
+#Licences 
+This program uses the following libraries:
+
+## STB_Image
+https://github.com/nothings/stb/blob/master/stb_image.h
+
+## LibPNG
+http://www.libpng.org/pub/png/libpng.html
+
+## zlib
+https://www.zlib.net/
