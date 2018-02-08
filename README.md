@@ -20,7 +20,7 @@ pngprep.zip
 
 Disclaimer: Use it for anything, but do so at your own risk.
 
-#Licences 
+# Licences 
 This program uses the following libraries:
 
 ## STB_Image
